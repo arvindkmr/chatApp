@@ -31,7 +31,8 @@ const [user] =useAuthState(auth);
   return (
     <div className="App">
       <header>
-        <h1>Let's chat!💬</h1>
+        <h1>Let's convey thoughts!💬</h1>
+        
         <SignOut/>
 </header>
 
